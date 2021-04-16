@@ -1,0 +1,77 @@
+body{
+    background-color: #03384a;
+}
+.nombre_luna{
+    margin-top: 130px;
+    text-align: center;
+    font-size: 70px;
+    color: white;
+}
+.caja_de_lunas{
+    margin-top: 80px;
+    width: 1100px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    margin-left: 120px;
+}
+.fase_1{
+    width: 150px;
+    height: auto;
+    display: block;
+    border: 1px solid white;
+    border-radius: 
+}
+.fase_1:hover{
+    background-color: #FFEB4D;
+}
+.fase_2{
+    width: 150px;
+    height: auto;
+    display: block;
+    border: 1px solid white;
+    border-radius:
+}
+.fase_2:hover{
+    background-color: #FFEB4D;
+}
+.fase_3{
+    width: 150px;
+    height: auto;
+    display: block;
+    border: 1px solid white;
+    border-radius:
+}
+.fase_3:hover{
+    background-color: #FFEB4D;
+}
+.fase_4{
+    width: 150px;
+    height: auto;
+    display: block;
+    border: 1px solid white;
+    border-radius:
+}
+.fase_4:hover{
+    background-color: #FFEB4D;
+}
+.fase_5{
+    width: 150px;
+    height: auto;
+    display: block;
+    border: 1px solid white;
+    border-radius:
+}
+.fase_5:hover{
+    background-color: #FFEB4D;
+}
+.fase_6{
+    width: 150px;
+    height: auto;
+    display: block;
+    border: 1px solid white;
+    border-radius:
+}
+.fase_6:hover{
+    background-color: #FFEB4D;
+}

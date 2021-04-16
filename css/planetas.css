@@ -1,0 +1,102 @@
+.nombre_planetas{
+    margin-top: 130px;
+    text-align: center;
+    font-size: 70px;
+    color: #4A4242;
+}
+.caja_de_planetas{
+    margin-top: 80px;
+    width: 1100px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    margin-left: 120px;
+}
+.planeta_1{
+    width: 200px;
+    height: auto;
+    display: block;
+    border: 1px solid #4A4242;
+    border-radius: 
+}
+.planeta_1:hover{
+    background-color: #FFEB4D;
+}
+.planeta_2{
+    width: 200px;
+    height: auto;
+    display: block;
+    border: 1px solid #4A4242;
+    border-radius:
+}
+.planeta_2:hover{
+    background-color: #FFEB4D;
+}
+.planeta_3{
+    width: 200px;
+    height: auto;
+    display: block;
+    border: 1px solid #4A4242;
+    border-radius:
+}
+.planeta_3:hover{
+    background-color: #FFEB4D;
+}
+.planeta_4{
+    width: 200px;
+    height: auto;
+    display: block;
+    border: 1px solid #4A4242;
+    border-radius:
+}
+.planeta_4:hover{
+    background-color: #FFEB4D;
+}
+.caja_de_planetas_2{
+    width: 1100px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    margin-top: 50px;
+    margin-left: 120px;
+}
+.planeta_5{
+    width: 200px;
+    height: auto;
+    display: block;
+    border: 1px solid #4A4242;
+    border-radius:
+}
+.planeta_5:hover{
+    background-color: #FFEB4D;
+}
+.planeta_6{
+    width: 200px;
+    height: auto;
+    display: block;
+    border: 1px solid #4A4242;
+    border-radius:
+}
+.planeta_6:hover{
+    background-color: #FFEB4D;
+}
+.planeta_7{
+    width: 200px;
+    height: auto;
+    display: block;
+    border: 1px solid #4A4242;
+    border-radius:
+}
+.planeta_7:hover{
+    background-color: #FFEB4D;
+}
+.planeta_8{
+    width: 200px;
+    height: auto;
+    display: block;
+    border: 1px solid #4A4242;
+    border-radius:
+}
+.planeta_8:hover{
+    background-color: #FFEB4D;
+}

@@ -1,0 +1,51 @@
+.nombre_galaxias{
+    margin-top: 130px;
+    text-align: center;
+    font-size: 70px;
+    color: #4A4242;
+}
+.caja_galaxias{
+    margin-top: 80px;
+    width: 1100px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    margin-left: 120px;
+}
+.caja_1{
+    width: 300px;
+    height: auto;
+    padding: 20px;
+    display: block;
+    border: 1px solid #4A4242;
+}
+.caja_2{
+    width: 300px;
+    height: auto;
+    display: block;
+    border: 1px solid #4A4242;
+    padding: 20px;
+}
+h3{
+    color: #4A4242;
+    text-align: center;
+    text-decoration: none;
+    font-size: 40px;
+}
+.enlaces_xd{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    background-color: #F8931F;
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    margin-left: 90px;
+}
+.enlaces_xd:hover{
+    background-color: #FFEB4D;
+}
+p{
+    text-align: center;
+}
