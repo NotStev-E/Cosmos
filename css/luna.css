@@ -8,12 +8,13 @@ body{
     color: white;
 }
 .caja_de_lunas{
-    margin-top: 80px;
     width: 1100px;
     display: flex;
     flex-direction: row;
+    margin: auto;
+    justify-content: center;
+    margin-top: 80px;
     justify-content:space-between;
-    margin-left: 120px;
 }
 .fase_1{
     width: 150px;

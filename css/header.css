@@ -6,15 +6,15 @@
 .header{
     margin-top: 30px;
     width: 100%;
-    height: 3px;
-    background-color: black;
+    height: 1px;
+    background-color: #778885;
 }
 .header{
     
 }
 .boton{
     margin-bottom: 15px;
-    margin-left: 20px;
+    margin-left: 15px;
     box-sizing: border-box;
     width: 20px;
     height: 10px;
@@ -26,4 +26,16 @@
 }
 .boton_inicio:hover{
     color: #FFEB4D;
+}
+.boton_flecha{
+    margin: 7px 0px 7px 0px;;
+    width: 20px;
+    border-radius: 8px;
+    border-color: #F8931F;
+    height: auto;
+    padding: 2px 8px 2px 8px;
+    border: 1px solid #748582;
+}
+.boton_flecha:hover{
+    background-color: #FFEB4D
 }
